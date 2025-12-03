@@ -5,7 +5,7 @@
 Shop Global is a modern, user-friendly online shopping website offering a wide range of categories such as Fashion, Kids & Toys, Electronics, Jewellery, Cosmetics, and Grocery.
 This project focuses on providing a clean UI, smooth navigation, and a simple yet attractive shopping experience.
 
-<img src="./images/web.png" width="550" height="400">
+<img src="./images/web.jpg" width="550" height="400">
 
 ## Files
 # Project Folder Structure
