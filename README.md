@@ -1,6 +1,6 @@
 # css-project-2-shop-global
 
-# <img src="./images/common-image/main-logo.png" width="28" height="30" style="border-radius:50%; border:1px solid white;"> Shop Global — Static Frontend Prototype
+# <img src="./images/common-image/readme-main.jpg" width="28" height="30" style="border-radius:50%; border:1px solid white;"> Shop Global — Static Frontend Prototype
 
 Shop Global is a modern, user-friendly online shopping website offering a wide range of categories such as Fashion, Kids & Toys, Electronics, Jewellery, Cosmetics, and Grocery.
 This project focuses on providing a clean UI, smooth navigation, and a simple yet attractive shopping experience.
