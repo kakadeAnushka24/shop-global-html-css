@@ -9,27 +9,20 @@ This project focuses on providing a clean UI, smooth navigation, and a simple ye
 # Project Folder Structure
 
 📁 **project-folder/**  
-project-folder/
-├─ index.html
-├─ css/
-│  └─ style.css
-├─ pages/
-│  ├─ fashion.html
-│  ├─ kids.html
-│  ├─ electronics.html
-│  ├─ jewellery.html
-│  ├─ cosmetics.html
-│  └─ grocery.html
-├─ images/
-│  ├─ folders/
-│  ├─ fashion.png
-│  ├─ kids.png
-│  ├─ electronics.png
-│  ├─ jewellery.png
-│  ├─ cosmetics.png
-│  ├─ grocery.png
-│  └─ common-images/
-└─ README.md
+├─ 📄 `index.html`  
+├─ 📁 `css` 
+├─ 📁 `pages`
+├─ 📁 `images/`  
+│  ├─ 📁 `folders/`  
+│  ├─ 🖼️ `fashion.png`  
+│  ├─ 🖼️ `kids.png`  
+│  ├─ 🖼️ `electronics.png`  
+│  ├─ 🖼️ `jewellery.png`  
+│  ├─ 🖼️ `cosmetics.png`  
+│  ├─ 🖼️ `grocery.png`  
+│  ├─ 🖼️ `common-images`  
+│  
+
 ## Features
 - Wide range of categories including Fashion, Electronics, Toys, Jewellery, Cosmetics, and Grocery.
 - Easy and secure shopping experience with smooth navigation and safe payments.
