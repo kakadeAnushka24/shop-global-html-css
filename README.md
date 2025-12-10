@@ -46,7 +46,7 @@ This project focuses on providing a clean UI, smooth navigation, and a simple ye
 
 ##  Contributors
 
-- Sejal Palak. (index.html, fashion.html,signup.html,help.html)
+- Sejal Phalak. (index.html, fashion.html,signup.html,help.html)
 - Vaibhav Warade. (grocery.html)
 - Pranali Shinde. (jwellery.html)
 - Diksha Pande. (kid.html)
